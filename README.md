@@ -33,7 +33,7 @@ docker exec -it superset superset load_examples
 docker exec -it superset superset init
 ```
 
-Login and take a look -- navigate to http://localhost:8080/login/
+Login and take a look -- navigate to http://localhost:8080/login/  
 user: admin  
 password: admin  
 
